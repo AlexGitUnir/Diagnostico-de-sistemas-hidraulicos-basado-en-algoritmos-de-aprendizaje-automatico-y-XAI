@@ -1,7 +1,7 @@
 # Diagnostico-de-sistemas-hidraulicos-basado-en-algoritmos-de-aprendizaje-automatico-y-XAI
 Repositorio que contiene el código Python del Trabajo de Fin de Master titulado Diagnóstico y monitorización de condición de sistemas hidráulicos basado en algoritmos de aprendizaje automático y técnicas XAI
 
-# Pasos a seguir para ejecutar el gemelo digital
+## Pasos a seguir para ejecutar el gemelo digital
 1. **Instalar Python**
 
 Instalar python en el equipo en caso de no tenerlo desde el siguiente enlace: https://www.python.org/downloads/
