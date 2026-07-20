@@ -75,3 +75,9 @@ Esto abrirá automáticamente la interfaz del Gemelo Digital en tu navegador web
 ## Contacto
 
 alejandro.valdeolmillos808@comunidadunir.net
+
+mikel.soto729@comunidadunir.net
+
+salvador.guerra9982@comunidadunir.net
+
+sergio.gomezesc8582@comunidadunir.net
